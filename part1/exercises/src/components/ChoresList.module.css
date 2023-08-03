@@ -1,11 +1,12 @@
 .choresText {
-   color: purple;
+   color: palevioletred;
    font-family: Georgia, 'Times New Roman', Times, serif;
    font-size: 1.3vw;
    font-style: italic;
+   text-align: left;
 }
 
 .choresHeading {
-   color: purple;
    text-decoration: underline;
+   text-align: left;
 }

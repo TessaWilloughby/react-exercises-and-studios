@@ -2,10 +2,11 @@
    color: pink;
    font-size: 1.3vw;
    text-align: left;
-
+   background-color: purple;
+   
 }
 
 .movieHeading {
-   color: pink;
    text-align: left;
+   text-decoration: underline;
 }

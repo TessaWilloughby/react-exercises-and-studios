@@ -1,5 +1,7 @@
-function RecipeImage() {
-   return;
+function RecipeImage(props) {
+
+  let { name, recipeImage } = props.recipe;
+   return <img src={recipeImage} alt={name} className="recipeImage" />;
  }
  
  export default RecipeImage;

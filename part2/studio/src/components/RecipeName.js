@@ -1,8 +1,13 @@
-import recipedata from "./recipe.json";
+function RecipeName(props) {
+  let { name } = props.recipe;
 
-function RecipeName() {
-  return recipedata;
+  return (
+    <div>
+      <h1>{name}</h1>
+    </div>
+  );
 }
+
 
 export default RecipeName;
 

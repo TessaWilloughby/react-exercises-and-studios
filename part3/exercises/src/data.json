@@ -1,37 +1,34 @@
-[
-    {
-        "date": "August 10",
-        "least favorite exercise": "goblet reverse lunge",
-        "most favorite exercise": "low band bridge",
-        "speciality workout": false
-    },
-
-    {
-        "date": "August 8",
-        "least favorite exercise": "burpees",
-        "most favorite exercise": "TRX bridge row",
-        "speciality workout": true
-    },
-
-    {
-        "date": "August 3",
-        "least favorite exercise": "bosu kneeling neutral grip lateral raise",
-        "most favorite exercise": "bosu single arm split squat",
-        "speciality workout": false
-    },
-
-    {
-        "date": "August 1",
-        "least favorite exercise": "alt sumo dead lift",
-        "most favorite exercise": "half kneeling wood chopper",
-        "speciality workout": false
-    },
-
-    {
-        "date": "July 31",
-        "least favorite exercise": "squat to walkout",
-        "most favorite exercise": "pushup to super hero press",
-        "speciality workout": true
-    }
-
-]
+{
+    "projects": [
+        {
+            "date": "August 10",
+            "least favorite exercise": "goblet reverse lunge",
+            "most favorite exercise": "low band bridge",
+            "speciality workout": false
+        },
+        {
+            "date": "August 8",
+            "least favorite exercise": "burpees",
+            "most favorite exercise": "TRX bridge row",
+            "speciality workout": true
+        },
+        {
+            "date": "August 3",
+            "least favorite exercise": "bosu kneeling neutral grip lateral raise",
+            "most favorite exercise": "bosu single arm split squat",
+            "speciality workout": false
+        },
+        {
+            "date": "August 1",
+            "least favorite exercise": "alt sumo dead lift",
+            "most favorite exercise": "half kneeling wood chopper",
+            "speciality workout": false
+        },
+        {
+            "date": "July 31",
+            "least favorite exercise": "squat to walkout",
+            "most favorite exercise": "pushup to super hero press",
+            "speciality workout": true
+        }
+    ]
+}
